@@ -130,6 +130,9 @@ p {
     .nav li a {
         padding: 20px;
     }
+    .nav li a:hover {
+        font-weight: 400;
+    }
 }
 
 
