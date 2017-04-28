@@ -1,0 +1,25 @@
+{
+  "name": "moore_website",
+  "version": "1.0.0",
+  "description": "If you find software that doesn’t have a license, that generally means you have no permission from the creators of the software to use, modify, or share the software. Although a code host such as GitHub may allow you to view and fork the code, this does not imply that you are permitted to use, modify, or share the software for any purpose.",
+  "main": "gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com//%1B%5BD%1B%5B3~%1B%5B3~%1B%5Be%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%2FMoore-website.git).git"
+  },
+  "author": "ayreeve",
+  "license": "ISC"
+}
