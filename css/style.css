@@ -69,7 +69,7 @@ p {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    background-image: url(/images/photos/jumbotron/jumbotron_small.jpg);
+    background-image: url(../images/photos/jumbotron/jumbotron_small.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -85,7 +85,7 @@ p {
 }
 
 .navbar-header {
-    height: 0px;
+    height: 0;
 }
 
 .navbar-toggle {
@@ -93,7 +93,7 @@ p {
     height: 40px;
     margin: 15px;
     position: fixed;
-    right: 0px;
+    right: 0;
     border: 1px solid #A60014;
     border-radius: 50px;
 }
@@ -111,7 +111,7 @@ p {
 
 .nav li a {
     margin-top: 25px;
-    padding: 0px;
+    padding: 0;
     font-size: 2em;
     color: #414644;
 }
@@ -313,17 +313,15 @@ figcaption h3 {
     width: 63px;
     height: 63px;
     margin: 10px 0 30px 0;
-    border: 0px transparent;
     border-radius: 50%;
     background-color: #A60014;
-    background-image: url(/images/button/download.jpg);
+    background-image: url(../images/button/download.jpg);
     background-size: contain;
 }
 
 .btn-primary:hover {
-    border: 0px transparent;
     background-color: rgba(166, 0, 20, 0.8);
-    background-image: url(/images/button/download.jpg);
+    background-image: url(../images/button/download.jpg);
 }
 
 
